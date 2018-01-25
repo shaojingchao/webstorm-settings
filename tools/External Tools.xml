@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="less" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Program Files\nodejs\node.exe" />
+      <option name="PARAMETERS" value="C:\Users\邵敬超\AppData\Roaming\npm\node_modules\less\bin\lessc $FilePath$ $FileDir$/$FileNameWithoutExtension$.css" />
+      <option name="WORKING_DIRECTORY" value="D:/Program Files/nodejs" />
+    </exec>
+  </tool>
+</toolSet>
