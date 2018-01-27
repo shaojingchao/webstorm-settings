@@ -8,6 +8,7 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="standardContent.tpl" type="PLAIN_TEXT" />
       <mapping pattern="01文档20170531" type="PLAIN_TEXT" />
+      <mapping pattern="highcharts" type="Vue.js" />
     </extensionMap>
   </component>
 </application>

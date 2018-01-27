@@ -8,15 +8,14 @@
 </style>
 
 <script type="text/ecmascript-6">
-  import HeaderComponent from './components/header.vue'
+  // import HeaderComponent from '@/components/header.vue'
   export default {
     data () {
       return {
-        msg: 'hello vue'
       }
     },
     components: {
-      HeaderComponent
+     // HeaderComponent
     }
   }
 </script>
