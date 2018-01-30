@@ -5,6 +5,7 @@
       <mapping pattern="standardContent" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping pattern="server" type="JavaScript" />
+      <mapping ext="webp" type="Native" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="standardContent.tpl" type="PLAIN_TEXT" />
       <mapping pattern="01文档20170531" type="PLAIN_TEXT" />
