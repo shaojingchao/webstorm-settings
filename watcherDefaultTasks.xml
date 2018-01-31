@@ -25,6 +25,7 @@
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="program" value="D:/Program Files/less.js-windows-v2.6.1/lessc.cmd" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Open Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
@@ -42,15 +43,16 @@
       <option name="outputFilters">
         <array>
           <FilterInfo>
-            <option name="description" value="lessc error format" />
-            <option name="name" value="lessc" />
+            <option name="description" value="" />
+            <option name="name" value="" />
             <option name="regExp" value="$MESSAGE$\Q in \E$FILE_PATH$\Q on line \E$LINE$\Q, column \E$COLUMN$" />
           </FilterInfo>
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="program" value="D:/Program Files/less.js-windows-v2.6.1/lessc.cmd" />
-      <option name="scopeName" value="Open Files" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
