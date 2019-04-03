@@ -8,6 +8,7 @@
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
