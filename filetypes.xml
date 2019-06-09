@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
+      <mapping ext="tpl" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
