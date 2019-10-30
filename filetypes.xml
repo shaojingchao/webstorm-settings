@@ -7,13 +7,14 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
       <mapping ext="ux" type="Vue.js" />
     </extensionMap>
