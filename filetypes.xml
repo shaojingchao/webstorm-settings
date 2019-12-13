@@ -5,6 +5,7 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="njk" type="HTML" />
       <mapping ext="wxml" type="HTML" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
