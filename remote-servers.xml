@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="node-wenba" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="D:\tesoon\tesoon-wenba-nuxt2" />
+              <option name="virtualMachinePath" value="D:\DockerDesktop\wenba-nuxt2" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
