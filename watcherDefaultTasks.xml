@@ -19,7 +19,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="D:/tesoon/topic/gkzt2020/assets/h5/css/index.less" />
+      <option name="program" value="lessc" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
