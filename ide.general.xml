@@ -11,6 +11,5 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
