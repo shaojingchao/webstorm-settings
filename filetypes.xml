@@ -9,7 +9,6 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="pm2logs" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -20,6 +19,7 @@
       <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
       <mapping pattern="w2-proxy" type="PLAIN_TEXT" />
       <mapping pattern="todolist" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="ux" type="Vue.js" />
