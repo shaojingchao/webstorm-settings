@@ -4,23 +4,22 @@
       <mapping ext="wxss" type="CSS" />
       <mapping ext="art" type="HTML" />
       <mapping ext="tpl" type="HTML" />
-      <mapping ext="njk" type="HTML" />
       <mapping ext="wxml" type="HTML" />
-      <mapping ext="webp" type="Image" />
-      <mapping pattern="pm2logs" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
-      <mapping pattern="jest" type="PLAIN_TEXT" />
-      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="post-setup &amp;&amp; ls,pre-deploy-localecho ---" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
-      <mapping pattern="w2-proxy" type="PLAIN_TEXT" />
+      <mapping ext="njk" type="HTML" />
       <mapping pattern="todolist" type="PLAIN_TEXT" />
+      <mapping pattern="jest" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="w2-proxy" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="pm2logs" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="post-setup &amp;&amp; ls,pre-deploy-localecho ---" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="ux" type="Vue.js" />
