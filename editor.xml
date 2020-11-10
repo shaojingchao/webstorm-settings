@@ -13,5 +13,8 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" nodeAutoDelay="300" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
 </application>
