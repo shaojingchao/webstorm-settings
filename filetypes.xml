@@ -6,6 +6,7 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="njk" type="HTML" />
+      <mapping pattern="quanguoban" type="JSON" />
       <mapping pattern="todolist" type="PLAIN_TEXT" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
