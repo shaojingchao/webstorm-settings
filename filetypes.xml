@@ -18,9 +18,11 @@
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="post-test" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="post-node" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
       <mapping pattern="post-setup &amp;&amp; ls,pre-deploy-localecho ---" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
