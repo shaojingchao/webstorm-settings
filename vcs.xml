@@ -6,8 +6,13 @@
           <option name="url" value="http://git.tesoon.com" />
           <option name="userName" value="shaojingchao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.tesoon.com/front-end/weilainao-college/kszx-zhuanpan-2021-dist" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\tesoon\weilainao-college\kszx-zhuanpan-2021\dist" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
