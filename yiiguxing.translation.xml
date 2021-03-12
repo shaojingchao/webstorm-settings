@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="maxHistorySize" value="500" />
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="测评信息列表" />
+      <item value="你好" />
+      <item value="shang" />
+      <item value="primitive" />
+      <item value="is" />
+      <item value="These helpers produce better VM code in JS engines due to their explicitness and function inlining." />
       <item value="confirm" />
       <item value="component Did Mount" />
       <item value="solar" />
@@ -9,10 +19,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615528613298" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -20,13 +33,15 @@
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
-    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
+        <option name="appId" value="0fe5ba4b25189785" />
       </youdao-translate>
     </option>
   </component>
