@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="提交订单" />
+      <item value="订单支付" />
       <item value="测评信息列表" />
       <item value="你好" />
       <item value="shang" />
@@ -19,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
