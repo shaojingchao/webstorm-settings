@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
@@ -27,7 +27,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615528613298" />
+    <option name="lastTrimTime" value="1616072082141" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
