@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This plugin used to be called rollup-plugin-npm" />
+      <item value="entity" />
+      <item value="Convert ES2015 with buble." />
+      <item value="buble" />
       <item value="for" />
       <item value="waterfall" />
       <item value="integer" />
@@ -26,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
