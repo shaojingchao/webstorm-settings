@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="fluent" />
       <item value="external" />
       <item value="This plugin used to be called rollup-plugin-npm" />
       <item value="entity" />
@@ -31,13 +32,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616644822292" />
+    <option name="lastTrimTime" value="1617261788202" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
