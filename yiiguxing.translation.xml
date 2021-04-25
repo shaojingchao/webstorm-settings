@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="hit" />
+      <item value="considering" />
+      <item value="structure" />
+      <item value="Deep copy the given object considering circular structure. This function caches all nested objects and its copies. If it detects circular structure, use cached copy to avoid infinite loop." />
+      <item value="the" />
       <item value="Calculate the raw [HMAC](https:en.wikipedia.orgwikiHMAC)-MD5 hash of a given" />
       <item value="To get the absolute file system path of `runtime.js`, evaluate the following expression:" />
       <item value="Brotli.js is port of the [Brotli](http:tools.ietf.orghtmldraft-alakuijala-brotli-01) compression algorithm (as used in the [WOFF2](http:www.w3.orgTRWOFF2) font format) to JavaScript. The decompressor is hand ported, and the compressor is ported with Emscripten. The original C++ source code can be found [here](http:github.comgooglebrotli)." />
@@ -36,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
