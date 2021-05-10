@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Subscriber" />
+      <item value="dependency" />
+      <item value="Deep watchers and watchers on ObjectArrays should fire even when the value is the same, because the value may have mutated." />
+      <item value="mutated" />
+      <item value="value" />
+      <item value="Scheduler" />
+      <item value="flushing" />
+      <item value="mutator" />
+      <item value="not type checking this file because flow doesn't play well with dynamically accessing methods on Array prototype" />
+      <item value="flow" />
+      <item value="Recursively traverse an object to evoke all converted getters, so that every nested property inside the object is collected as a &quot;deep&quot; dependency." />
       <item value="hit" />
       <item value="considering" />
       <item value="structure" />
@@ -41,13 +52,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619098159617" />
+    <option name="lastTrimTime" value="1620610490648" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
