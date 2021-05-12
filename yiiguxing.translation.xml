@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="attached" />
+      <item value="relies on" />
+      <item value="hydrating" />
+      <item value="teardown" />
+      <item value="direct" />
+      <item value="inactive" />
+      <item value="treatment" />
+      <item value="a flag to avoid this being observed" />
+      <item value="measure" />
+      <item value="perf" />
       <item value="coupons" />
       <item value="Fallback to setImmediate. Techinically it leverages the (macro) task queue, but it is still a better choice than setTimeout." />
       <item value="In problematic UIWebViews, Promise.then doesn't completely break, but it can get stuck in a weird state where callbacks are pushed into the microtask queue but the queue isn't being flushed, until the browser needs to do some other work, e.g. handle a timer. Therefore we can &quot;force&quot; the microtask queue to be flushed by adding an empty timer." />
@@ -59,8 +69,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
