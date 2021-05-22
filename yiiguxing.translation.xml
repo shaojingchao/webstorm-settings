@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
+    <option name="lastReplacementTargetLanguage" value="CHINESE_TRADITIONAL" />
     <option name="maxHistorySize" value="500" />
     <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="高效 快速 稳定" />
+      <item value="成为用户" />
+      <item value="馬上開始接碼" />
+      <item value="马上开始接码" />
+      <item value="查看开发文档" />
+      <item value="底部结束" />
       <item value="友情链接" />
       <item value="resolve" />
       <item value="attached" />
@@ -71,8 +78,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE_TRADITIONAL" value="18" />
+        <entry key="CHINESE_CANTONESE" value="2" />
       </map>
     </option>
   </component>
@@ -88,9 +97,10 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
