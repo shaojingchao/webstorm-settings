@@ -14,7 +14,7 @@
       <map>
         <entry key="CHINESE" value="67" />
         <entry key="ENGLISH" value="62" />
-        <entry key="CHINESE_TRADITIONAL" value="1082" />
+        <entry key="CHINESE_TRADITIONAL" value="1087" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
@@ -35,6 +35,7 @@
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
