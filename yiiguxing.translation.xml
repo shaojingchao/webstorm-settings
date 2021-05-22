@@ -5,11 +5,16 @@
     <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="service" />
+      <item value="用户登录" />
+      <item value="登陆token" />
+    </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="59" />
-        <entry key="CHINESE_TRADITIONAL" value="386" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE_TRADITIONAL" value="391" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
@@ -23,11 +28,6 @@
         <option name="appId" value="20210522000837962" />
       </app-key>
     </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
@@ -35,6 +35,7 @@
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
