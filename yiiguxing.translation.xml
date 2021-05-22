@@ -78,10 +78,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="59" />
-        <entry key="CHINESE_TRADITIONAL" value="203" />
-        <entry key="CHINESE_CANTONESE" value="2" />
+        <entry key="CHINESE_TRADITIONAL" value="371" />
+        <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
   </component>
@@ -89,6 +89,11 @@
     <option name="lastTrimTime" value="1621649868577" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210522000837962" />
+      </app-key>
+    </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
