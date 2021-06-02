@@ -14,19 +14,24 @@
       <map>
         <entry key="CHINESE" value="67" />
         <entry key="ENGLISH" value="62" />
-        <entry key="CHINESE_TRADITIONAL" value="1098" />
+        <entry key="CHINESE_TRADITIONAL" value="1201" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621649868577" />
+    <option name="lastTrimTime" value="1622641671152" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20210522000837962" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
     </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
