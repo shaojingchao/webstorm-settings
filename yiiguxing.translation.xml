@@ -1,26 +1,28 @@
 <application>
   <component name="AppStorage">
-    <option name="lastReplacementTargetLanguage" value="CHINESE_TRADITIONAL" />
+    <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="500" />
     <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This method will be called when Electron has finished initialization and is ready to create browser windows. Some APIs can only be used after this event occurs." />
+      <item value="fix transparent window not working in linux bug" />
       <item value="service" />
       <item value="用户登录" />
       <item value="登陆token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="1114" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623418181112" />
+    <option name="lastTrimTime" value="1624437687816" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -35,6 +37,7 @@
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
