@@ -27,6 +27,7 @@
       <mapping pattern="post-node" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
       <mapping pattern="post-setup &amp;&amp; ls,pre-deploy-localecho ---" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
