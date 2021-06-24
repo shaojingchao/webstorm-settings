@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This file is required by the index.html file and will be executed in the renderer process for that window. No Node.js APIs are available in this process because `nodeIntegration` is turned off. Use `preload.js` to selectively enable features needed in the rendering process." />
       <item value="balloon" />
       <item value="accelerator" />
       <item value="dock icon is clicked and there are no other windows open." />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="70" />
         <entry key="CHINESE_TRADITIONAL" value="1114" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
