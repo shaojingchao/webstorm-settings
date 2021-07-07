@@ -1,6 +1,6 @@
 <application>
   <component name="AppStorage">
-    <option name="lastReplacementTargetLanguage" value="CHINESE" />
+    <option name="lastReplacementTargetLanguage" value="CHINESE_TRADITIONAL" />
     <option name="maxHistorySize" value="500" />
     <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="760" />
@@ -21,13 +21,13 @@
       <map>
         <entry key="CHINESE" value="94" />
         <entry key="ENGLISH" value="70" />
-        <entry key="CHINESE_TRADITIONAL" value="1114" />
+        <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624437687816" />
+    <option name="lastTrimTime" value="1625666239667" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -42,7 +42,7 @@
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
