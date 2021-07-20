@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="wise" />
+      <item value="clockwise" />
       <item value="Camelize" />
       <item value="hyphenate" />
       <item value="Capitalize" />
@@ -22,15 +24,15 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625666239667" />
+    <option name="lastTrimTime" value="1626688753034" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
