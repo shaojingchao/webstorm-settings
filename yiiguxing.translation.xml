@@ -2,10 +2,20 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE_TRADITIONAL" />
     <option name="maxHistorySize" value="500" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ship" />
+      <item value="shipload" />
+      <item value="船货" />
+      <item value="cargo" />
+      <item value=" cargo" />
+      <item value="immediate shipment of the cargo" />
+      <item value="immediate shipment" />
+      <item value="Immediate" />
+      <item value="immediate" />
       <item value="transposed" />
       <item value="wise" />
       <item value="clockwise" />
@@ -25,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
       </map>
@@ -48,7 +58,7 @@
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
