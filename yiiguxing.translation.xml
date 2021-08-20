@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="relevent" />
       <item value="ship" />
       <item value="shipload" />
       <item value="船货" />
@@ -35,15 +36,16 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
+        <entry key="CHINESE" value="106" />
         <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628688492072" />
+    <option name="lastTrimTime" value="1629428163225" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
