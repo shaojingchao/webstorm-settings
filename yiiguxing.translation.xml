@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This method mutates the array and returns a reference to the same array" />
       <item value="relevent" />
       <item value="ship" />
       <item value="shipload" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="82" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
