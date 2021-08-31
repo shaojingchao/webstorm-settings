@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="kaoshizaixian" />
       <item value="This method mutates the array and returns a reference to the same array" />
       <item value="relevent" />
       <item value="ship" />
@@ -46,7 +47,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629428163225" />
+    <option name="lastTrimTime" value="1630397993342" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
