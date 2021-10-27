@@ -1,5 +1,5 @@
 <application>
   <component name="com.sburlyaev.cmd.plugin.PluginSettings">
-    <option name="favoriteTerminal" value="D:/program files/cmder/Cmder.exe" />
+    <option name="favoriteTerminal" value="D:/program/PowerShell/7/pwsh.exe" />
   </component>
 </application>
