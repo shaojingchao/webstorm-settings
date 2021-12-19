@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="belongs" />
       <item value="no-side-effects-in-computed-properties" />
       <item value="cash" />
       <item value="we are only extracting raw values here. validation and default values are handled in the child component itself." />
@@ -52,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="96" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
@@ -61,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637800959642" />
+    <option name="lastTrimTime" value="1639902494735" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
