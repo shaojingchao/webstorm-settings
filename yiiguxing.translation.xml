@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="dialect" />
       <item value="belongs" />
       <item value="no-side-effects-in-computed-properties" />
       <item value="cash" />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="97" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
