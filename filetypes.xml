@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="editorConfig" type="AUTO_DETECTED" />
       <mapping pattern="header-v2" type="AUTO_DETECTED" />
       <mapping pattern="apple-app-site-association" type="AUTO_DETECTED" />
