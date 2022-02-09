@@ -1,0 +1,90 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastReplacementTargetLanguage" value="CHINESE_TRADITIONAL" />
+    <option name="maxHistorySize" value="500" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="transaction" />
+      <item value="reverting" />
+      <item value="dialect" />
+      <item value="belongs" />
+      <item value="no-side-effects-in-computed-properties" />
+      <item value="cash" />
+      <item value="we are only extracting raw values here. validation and default values are handled in the child component itself." />
+      <item value="deflate" />
+      <item value="compression" />
+      <item value="distribution" />
+      <item value="eviction" />
+      <item value="polling" />
+      <item value="recover Missed Executions" />
+      <item value="dimensions" />
+      <item value="measures" />
+      <item value="straight" />
+      <item value="workerpool offers an easy way to create a pool of workers for both dynamically offloading computations as well as managing a pool of dedicated workers. workerpool basically implements a [thread pool pattern](http:en.wikipedia.orgwikiThread_pool_pattern). There is a pool of workers to execute tasks. New tasks are put in a queue. A worker executes one task at a time, and once finished, picks a new task from the queue. Workers can be accessed via a natural, promise based proxy, as if they are available straight in the main application." />
+      <item value="async" />
+      <item value="kaoshizaixian" />
+      <item value="This method mutates the array and returns a reference to the same array" />
+      <item value="relevent" />
+      <item value="ship" />
+      <item value="shipload" />
+      <item value="船货" />
+      <item value="cargo" />
+      <item value=" cargo" />
+      <item value="immediate shipment of the cargo" />
+      <item value="immediate shipment" />
+      <item value="Immediate" />
+      <item value="immediate" />
+      <item value="transposed" />
+      <item value="wise" />
+      <item value="clockwise" />
+      <item value="Camelize" />
+      <item value="hyphenate" />
+      <item value="Capitalize" />
+      <item value="This file is required by the index.html file and will be executed in the renderer process for that window. No Node.js APIs are available in this process because `nodeIntegration` is turned off. Use `preload.js` to selectively enable features needed in the rendering process." />
+      <item value="balloon" />
+      <item value="accelerator" />
+      <item value="dock icon is clicked and there are no other windows open." />
+      <item value="Quit when all windows are closed, except on macOS. There, it's common for applications and their menu bar to stay active until the user quits explicitly with Cmd + Q." />
+      <item value="This method will be called when Electron has finished initialization and is ready to create browser windows. Some APIs can only be used after this event occurs." />
+      <item value="fix transparent window not working in linux bug" />
+      <item value="service" />
+      <item value="用户登录" />
+      <item value="登陆token" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE_TRADITIONAL" value="1117" />
+        <entry key="CHINESE_CANTONESE" value="45" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1642837311710" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210522000837962" />
+      </app-key>
+    </option>
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="selectTargetLanguageBeforeReplacement" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="targetLanguageSelection" value="LAST" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="0fe5ba4b25189785" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

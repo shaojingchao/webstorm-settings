@@ -1,0 +1,46 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="editorConfig" type="AUTO_DETECTED" />
+      <mapping pattern="header-v2" type="AUTO_DETECTED" />
+      <mapping pattern="apple-app-site-association" type="AUTO_DETECTED" />
+      <mapping pattern="jsdoc" type="AUTO_DETECTED" />
+      <mapping pattern="latest-version" type="AUTO_DETECTED" />
+      <mapping pattern="taro" type="AUTO_DETECTED" />
+      <mapping ext="art" type="HTML" />
+      <mapping ext="tpl" type="HTML" />
+      <mapping ext="njk" type="HTML" />
+      <mapping pattern="quanguoban" type="JSON" />
+      <mapping pattern="todolist" type="PLAIN_TEXT" />
+      <mapping pattern="jest" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="w2-proxy" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="pm2logs" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping pattern="node-s" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="post-test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="post-node" type="PLAIN_TEXT" />
+      <mapping pattern="npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="post-setup &amp;&amp; ls,pre-deploy-localecho ---" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="ux" type="Vue.js" />
+      <mapping ext="wpy" type="Vue.js" />
+      <removed_mapping ext="wxml" approved="true" type="HTML" />
+      <removed_mapping ext="wxss" approved="true" type="CSS" />
+    </extensionMap>
+  </component>
+</application>
