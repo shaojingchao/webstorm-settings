@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="liyingying.site" id="d6c7c8e8-0fde-4851-b367-328497c5efa2" localPort="3001" port="1206" nameFormat="DESCRIPTIVE" username="shao" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
