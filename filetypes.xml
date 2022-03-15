@@ -8,6 +8,7 @@
       <mapping pattern="taro" type="AUTO_DETECTED" />
       <mapping pattern="latest-version" type="AUTO_DETECTED" />
       <mapping pattern="header-v2" type="AUTO_DETECTED" />
+      <mapping ext="acss" type="CSS" />
       <mapping ext="art" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="njk" type="HTML" />
