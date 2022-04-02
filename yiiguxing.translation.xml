@@ -4,8 +4,8 @@
     <option name="maxHistorySize" value="500" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="760" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogY" value="341" />
     <histories>
       <item value="transaction" />
       <item value="reverting" />
