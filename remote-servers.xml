@@ -5,21 +5,5 @@
         <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
       </configuration>
     </remote-server>
-    <remote-server name="Docker2" type="docker">
-      <configuration>
-        <option name="apiUrl" value="http://127.0.0.1" />
-        <option name="certificatesPath" />
-        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="d6c7c8e8-0fde-4851-b367-328497c5efa2" />
-        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
-      </configuration>
-    </remote-server>
-    <remote-server name="Docker3" type="docker">
-      <configuration>
-        <option name="apiUrl" value="http://127.0.0.1" />
-        <option name="certificatesPath" />
-        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="d6c7c8e8-0fde-4851-b367-328497c5efa2" />
-        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
-      </configuration>
-    </remote-server>
   </component>
 </application>
