@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="Creates a unique temporary directory. Generates six random characters to be appended behind a requiredprefix to create a unique temporary directory. Due to platform inconsistencies, avoid trailing X characters in prefix. Some platforms, notably the BSDs, can return more than six random characters, and replace trailing X characters in prefix with random characters. The created directory path is passed as a string to the callback's second parameter. The optional options argument can be a string specifying an encoding, or an object with an encoding property specifying the character encoding to use." />
+      <item value="Creates a unique temporary directory" />
       <item value="Talk-Boss-Fixed-Input" />
       <item value="transaction" />
       <item value="reverting" />
@@ -57,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="102" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
