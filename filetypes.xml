@@ -7,6 +7,7 @@
       <mapping pattern="editorConfig" type="AUTO_DETECTED" />
       <mapping pattern="taro" type="AUTO_DETECTED" />
       <mapping pattern="latest-version" type="AUTO_DETECTED" />
+      <mapping pattern="env" type="AUTO_DETECTED" />
       <mapping pattern="puppeteer-dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="header-v2" type="AUTO_DETECTED" />
       <mapping ext="acss" type="CSS" />
