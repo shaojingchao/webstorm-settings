@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="Don't persits null values. This means that all columns with null values will not be saved" />
       <item value="If true, the column will get a unique constraint. If a string is provided, the column will be part of a composite unique index. If multiple columns have the same string, they will be part of the same unique index" />
       <item value="Creates a unique temporary directory. Generates six random characters to be appended behind a requiredprefix to create a unique temporary directory. Due to platform inconsistencies, avoid trailing X characters in prefix. Some platforms, notably the BSDs, can return more than six random characters, and replace trailing X characters in prefix with random characters. The created directory path is passed as a string to the callback's second parameter. The optional options argument can be a string specifying an encoding, or an object with an encoding property specifying the character encoding to use." />
       <item value="Creates a unique temporary directory" />
@@ -60,8 +61,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
