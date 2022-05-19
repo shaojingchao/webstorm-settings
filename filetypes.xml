@@ -12,7 +12,6 @@
       <mapping pattern="puppeteer-dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="header-v2" type="AUTO_DETECTED" />
       <mapping ext="acss" type="CSS" />
-      <mapping ext="wxss" type="CSS" />
       <mapping ext="art" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="njk" type="HTML" />
