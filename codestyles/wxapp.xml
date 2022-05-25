@@ -6,7 +6,6 @@
     </value>
   </option>
   <JSCodeStyleSettings version="0">
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
