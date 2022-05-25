@@ -6,6 +6,7 @@
     </value>
   </option>
   <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -14,6 +15,9 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="false" />
+  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
