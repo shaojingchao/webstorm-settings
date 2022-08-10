@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring. We recommend adjusting this value in production" />
       <item value="PUPPETEER SKIP CHROMIUM DOWNLOAD" />
       <item value="Don't persits null values. This means that all columns with null values will not be saved" />
       <item value="If true, the column will get a unique constraint. If a string is provided, the column will be part of a composite unique index. If multiple columns have the same string, they will be part of the same unique index" />
@@ -62,8 +63,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
@@ -71,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658320610573" />
+    <option name="lastTrimTime" value="1660116755351" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
