@@ -48,6 +48,7 @@
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="ux" type="Vue.js" />
       <mapping ext="wpy" type="Vue.js" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
