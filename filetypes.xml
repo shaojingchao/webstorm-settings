@@ -23,6 +23,7 @@
       <mapping pattern="post-node" type="PLAIN_TEXT" />
       <mapping pattern=".editorConfig.bak" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="pm2logs" type="PLAIN_TEXT" />
       <mapping pattern="todolist" type="PLAIN_TEXT" />
