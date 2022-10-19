@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="descendants" />
+      <item value="Ancestors" />
       <item value="Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring. We recommend adjusting this value in production" />
       <item value="PUPPETEER SKIP CHROMIUM DOWNLOAD" />
       <item value="Don't persits null values. This means that all columns with null values will not be saved" />
@@ -63,8 +65,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
@@ -72,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662530961382" />
+    <option name="lastTrimTime" value="1666195678183" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
