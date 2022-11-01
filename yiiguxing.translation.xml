@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="Chat-Content-Item" />
       <item value="proposals" />
       <item value="Don't transpile inside node_modules" />
       <item value="descendants" />
@@ -76,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666195678183" />
+    <option name="lastTrimTime" value="1667280762281" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
