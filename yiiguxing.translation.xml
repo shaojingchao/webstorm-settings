@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="presence of a patch flag indicates this node needs patching on updates. component nodes also should always be patched, because even if the component doesn't need to update, it needs to persist the instance on to the next vnode so that it can be properly unmounted later." />
+      <item value="Reflect" />
       <item value="scheduler" />
       <item value="Shallow" />
       <item value="Chat-Content-Item" />
@@ -70,8 +72,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
