@@ -1,6 +1,6 @@
 <application>
   <component name="CodeGlance Pro">
-    <option name="jumpOnMouseDown" value="false" />
+    <option name="jumpOnMouseDown" value="MOUSE_UP" />
     <option name="pixelsPerLine" value="3" />
   </component>
 </application>
