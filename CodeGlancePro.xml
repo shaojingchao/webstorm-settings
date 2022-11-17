@@ -1,6 +1,8 @@
 <application>
   <component name="CodeGlance Pro">
+    <option name="clean" value="false" />
     <option name="jumpOnMouseDown" value="MOUSE_UP" />
-    <option name="pixelsPerLine" value="3" />
+    <option name="pixelsPerLine" value="2" />
+    <option name="viewportBorderColor" value="d1ffff" />
   </component>
 </application>

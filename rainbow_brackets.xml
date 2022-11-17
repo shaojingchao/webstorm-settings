@@ -5,7 +5,9 @@
     <option name="enableRainbowRoundBrackets" value="false" />
     <option name="enableRainbowSquareBrackets" value="false" />
     <option name="enableRainbowSquigglyBrackets" value="false" />
+    <option name="rainbowEnabled" value="false" />
     <option name="showRainbowIndentGuides" value="false" />
+    <option name="suppressDisabledCheck" value="true" />
     <option name="version" value="6.26" />
   </component>
 </application>
