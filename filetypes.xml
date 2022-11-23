@@ -16,6 +16,7 @@
       <mapping pattern="header-v2" type="AUTO_DETECTED" />
       <mapping pattern="wechatdevtools" type="AUTO_DETECTED" />
       <mapping ext="acss" type="CSS" />
+      <removed_mapping ext="csv" type="CSV" />
       <mapping ext="art" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="njk" type="HTML" />
@@ -58,6 +59,7 @@
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping pattern=".browserslistrc" approved="true" type="Browserslist File" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
