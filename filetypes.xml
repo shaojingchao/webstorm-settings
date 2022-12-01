@@ -16,7 +16,6 @@
       <mapping pattern="header-v2" type="AUTO_DETECTED" />
       <mapping pattern="wechatdevtools" type="AUTO_DETECTED" />
       <mapping ext="acss" type="CSS" />
-      <removed_mapping ext="csv" type="CSV" />
       <mapping ext="art" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="njk" type="HTML" />
@@ -52,6 +51,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="ux" type="Vue.js" />
       <mapping ext="wpy" type="Vue.js" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
