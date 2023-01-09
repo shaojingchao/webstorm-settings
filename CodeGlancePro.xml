@@ -1,6 +1,7 @@
 <application>
   <component name="CodeGlance Pro">
     <option name="clean" value="false" />
+    <option name="hoveringToShowScrollBar" value="true" />
     <option name="jumpOnMouseDown" value="MOUSE_UP" />
     <option name="mouseWheelMoveEditorToolTip" value="true" />
     <option name="pixelsPerLine" value="2" />
