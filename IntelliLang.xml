@@ -2,7 +2,13 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="Vue" injector-id="xml">
       <display-name>template/@v-if</display-name>
+      <single-file value="true" />
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("v-if")).withParent(xmlTag().withLocalName(string().equalTo("template")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="WxmlJs" injector-id="xml">
+      <display-name>view/@@click</display-name>
+      <single-file value="false" />
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("@click")).withParent(xmlTag().withLocalName(string().equalTo("view")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
   </component>
 </application>

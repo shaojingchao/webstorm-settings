@@ -4,9 +4,28 @@
     <option name="maxHistorySize" value="500" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="760" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogY" value="341" />
     <histories>
+      <item value="Used as references for various Number constants." />
+      <item value="Clamps number within the inclusive lower and upper bounds." />
+      <item value="within" />
+      <item value="presence of a patch flag indicates this node needs patching on updates. component nodes also should always be patched, because even if the component doesn't need to update, it needs to persist the instance on to the next vnode so that it can be properly unmounted later." />
+      <item value="Reflect" />
+      <item value="scheduler" />
+      <item value="Shallow" />
+      <item value="Chat-Content-Item" />
+      <item value="proposals" />
+      <item value="Don't transpile inside node_modules" />
+      <item value="descendants" />
+      <item value="Ancestors" />
+      <item value="Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring. We recommend adjusting this value in production" />
+      <item value="PUPPETEER SKIP CHROMIUM DOWNLOAD" />
+      <item value="Don't persits null values. This means that all columns with null values will not be saved" />
+      <item value="If true, the column will get a unique constraint. If a string is provided, the column will be part of a composite unique index. If multiple columns have the same string, they will be part of the same unique index" />
+      <item value="Creates a unique temporary directory. Generates six random characters to be appended behind a requiredprefix to create a unique temporary directory. Due to platform inconsistencies, avoid trailing X characters in prefix. Some platforms, notably the BSDs, can return more than six random characters, and replace trailing X characters in prefix with random characters. The created directory path is passed as a string to the callback's second parameter. The optional options argument can be a string specifying an encoding, or an object with an encoding property specifying the character encoding to use." />
+      <item value="Creates a unique temporary directory" />
+      <item value="Talk-Boss-Fixed-Input" />
       <item value="transaction" />
       <item value="reverting" />
       <item value="dialect" />
@@ -56,8 +75,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CHINESE_TRADITIONAL" value="1117" />
         <entry key="CHINESE_CANTONESE" value="45" />
         <entry key="INDONESIAN" value="1" />
@@ -65,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646905840260" />
+    <option name="lastTrimTime" value="1671032097677" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -73,16 +92,43 @@
         <option name="appId" value="20210522000837962" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </google-translate>
+    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0fe5ba4b25189785" />
       </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1672746812718" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="trailing" />
+      <item value="Checks if `value` is classified as an `Array` object." />
+      <item value="Used as references for various Number constants." />
+      <item value="constants" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+      </map>
     </option>
   </component>
 </application>
