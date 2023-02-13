@@ -19,7 +19,11 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Encoding" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="TranslationWidget" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
         <entry key="code-stats-intellij-status-bar-widget" value="false" />
       </map>
     </option>
